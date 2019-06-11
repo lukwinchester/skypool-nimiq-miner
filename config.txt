@@ -1,14 +1,14 @@
 const config =
 {
-  "address": "NQ48 8CKH BA24 2VR3 N249 N8MN J5XX 74DB 5XJ8",
+  "address": "NQ60 SLSL U12G M0T7 0T8F MH08 XE65 C4PB 24FV",
   "name": "*",
   "thread": 0,
   "percent": 100,
   "cpu": "auto",
   "server": [
-    "ws://hk0.nimiq.skypool.org:4000",
-    "ws://hk1.nimiq.skypool.org:4000",
-    "ws://sh0.nimiq.skypool.org:4000",
+    "ws://us.sushipool.com:443",
+    "ws://eu.sushipool.com:443",
+    "asia.sushipool.com:443",
   ]
 }
 module.exports = config;
